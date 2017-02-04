@@ -1,0 +1,1 @@
+I took the Udacity course on the Google Maps API because I was curious about how to use it.  This repository contains my code, which is mostly the same as the course code with a few improvements to fix functionality that I didn't like.
